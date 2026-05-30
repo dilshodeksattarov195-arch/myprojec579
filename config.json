@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerperify",
+        "uuid": 3546954,
+        "checksum": "ofoe8"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
